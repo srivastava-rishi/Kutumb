@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="purple_200">#FFBB86FC</color>
+    <color name="purple_500">#FF6200EE</color>
+    <color name="purple_700">#FF3700B3</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="white">#FFFFFFFF</color>
+
+    <color name="Very_Light_Grey">#d9d9d9</color>
+    <color name="Five_per_cent_black">#0d000000</color>
+    <color name="good_blue">#4B89FF</color>
+
+    <color name="blue">#3BACFF</color>
+
+    // for send_message_background
+    <color name="mic_color">#8E959B</color>
+    <color name="send_blue">#4EA7FF</color>
+
+    <color name="white2">#f3f3f3</color>
+    <color name="ghostWhite">#f8f8ff</color>
+    <color name="d_d1_blue2">#4b89ff</color>
+    <color name="Dc1_blue_2">#4b89ff</color>
+    <color name="White">#ffffff</color>
+    <color name="Black">#000000</color>
+    <color name="Grey_6_Dark">#35383f</color>
+
+    <color name="d_d1_dark">#2e323d</color>
+
+    <color name="lightBlack">#1E1E1E</color>
+    <color name="lightWhite">#8F8F8F</color>
+    <color name="coloredWhite">#FEFEFE</color>
+
+    //black
+    <color name="chineseBlack">#141414</color>
+    <color name="nightRider">#343434</color>
+    <color name="darkGrey">#AFAFAF</color>
+    <color name="chineseBlack2">#121212</color>
+    <color name="black">#000000</color>
+
+    <color name="slateColor">#2B2B2B</color>
+    <color name="lightSlate">#363636</color>
+    <color name="antiqueWhite">#AEB6BD</color>s
+    <color name="lightAntiqueWhite">#CBD1D5</color>
+
+
+    //
+    <color name="Grey_4_Dark">#c1c1c1</color>
+    <color name="fifty_per_black">#80000000</color>
+    <color name="transparent">#0000</color>
+
+    //
+    <color name="cream">#EAEAEA</color>
+    <color name="grey">#70808D</color>
+    <color name="Ghost_White">#f8f8ff</color>
+    <color name="lightGrey">#ECEFF1</color>
+    <color name="grey2">#B7B9C0</color>
+    <color name="statusBar">#CCCCCC</color>
+
+</resources>

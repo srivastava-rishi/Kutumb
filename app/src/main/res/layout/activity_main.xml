@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layout xmlns:tools="http://schemas.android.com/tools"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <RelativeLayout
+        android:id="@+id/rlRoot"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:background="@color/white"
+        tools:context="com.rstudios.splash.SplashActivity">
+
+        <include
+            android:id="@+id/iAppBar"
+            fontPath="fonts/Montserrat-Regular.ttf"
+            layout="@layout/view_app_bar"
+            android:visibility="visible"
+            tools:ignore="MissingPrefix" />
+
+        <androidx.recyclerview.widget.RecyclerView
+            android:id="@+id/rvRecyclerView"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_below="@+id/iAppBar"
+            android:scrollbarSize="4dp"
+            android:visibility="gone"
+            android:scrollbarStyle="outsideOverlay"
+            android:scrollbarThumbVertical="@color/Grey_4_Dark"
+            android:scrollbars="vertical" />
+
+        <TextView
+            android:id="@+id/tvNoMessage"
+            fontPath="fonts/Montserrat-Regular.ttf"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerInParent="true"
+            android:text="Your conversations will appear here"
+            android:visibility="visible"
+            android:textColor="@color/grey"
+            android:textSize="@dimen/_10ssp"
+            tools:ignore="MissingPrefix" />
+
+
+        <LinearLayout
+            android:id="@+id/llContainer"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_alignParentBottom="true"
+            android:visibility="visible"
+            android:orientation="vertical">
+
+            <View
+                android:id="@+id/view"
+                android:layout_width="match_parent"
+                android:layout_height="@dimen/_1sdp"
+                android:background="@color/ghostWhite"
+                android:visibility="visible" />
+
+            <TextView
+                fontPath="fonts/Montserrat-Bold.ttf"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_centerInParent="true"
+                android:layout_marginStart="@dimen/_8sdp"
+                android:layout_marginTop="@dimen/_8sdp"
+                android:layout_marginEnd="@dimen/_8sdp"
+                android:layout_marginBottom="@dimen/_2sdp"
+                android:text="Syncing messages..."
+                android:textColor="@color/black"
+                android:textSize="@dimen/_12ssp"
+                tools:ignore="MissingPrefix" />
+
+            <ProgressBar
+                android:id="@+id/pbSyncing"
+                style="@style/Widget.AppCompat.ProgressBar.Horizontal"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginStart="@dimen/_8sdp"
+                android:layout_marginEnd="@dimen/_8sdp"
+                android:layout_marginBottom="@dimen/_20sdp"
+                android:indeterminate="true"
+                android:indeterminateTint="@color/lightBlack"
+                />
+
+
+        </LinearLayout>
+
+
+    </RelativeLayout>
+
+</layout>

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/InternShip/kutu/app/src/main/res/drawable/circle.xml" value="0.215" />
+        <entry key="..\:/InternShip/kutu/app/src/main/res/drawable/received_message_background.xml" value="0.215" />
+        <entry key="..\:/InternShip/kutu/app/src/main/res/drawable/search_background.xml" value="0.215" />
+        <entry key="..\:/InternShip/kutu/app/src/main/res/drawable/send_message_bacground.xml" value="0.215" />
+        <entry key="..\:/InternShip/kutu/app/src/main/res/layout/activity_base.xml" value="0.264" />
+        <entry key="..\:/InternShip/kutu/app/src/main/res/layout/activity_main.xml" value="0.264" />
+        <entry key="..\:/InternShip/kutu/app/src/main/res/layout/activity_message.xml" value="0.25416666666666665" />
+        <entry key="..\:/InternShip/kutu/app/src/main/res/layout/activity_splash.xml" value="0.264" />
+        <entry key="..\:/InternShip/kutu/app/src/main/res/layout/view_app_bar.xml" value="0.264" />
+        <entry key="..\:/InternShip/kutu/app/src/main/res/layout/view_message_app_bar.xml" value="0.4" />
+        <entry key="..\:/InternShip/kutu/app/src/main/res/layout/view_message_list.xml" value="0.4" />
+        <entry key="..\:/InternShip/kutu/app/src/main/res/layout/view_message_syncing.xml" value="0.25416666666666665" />
+        <entry key="..\:/InternShip/kutu/app/src/main/res/layout/view_photo.xml" value="0.4" />
+        <entry key="..\:/InternShip/kutu/app/src/main/res/layout/view_received_message.xml" value="0.4" />
+        <entry key="..\:/InternShip/kutu/app/src/main/res/layout/view_sent_message.xml" value="0.4" />
+        <entry key="..\:/InternShip/kutumb/app/src/main/res/drawable/ripple.xml" value="0.215" />
+        <entry key="..\:/InternShip/kutumb/app/src/main/res/layout/activity_main.xml" value="0.264" />
+        <entry key="..\:/InternShip/kutumb/app/src/main/res/layout/activity_splash.xml" value="0.264" />
+        <entry key="..\:/InternShip/kutumb/app/src/main/res/layout/view_app_bar.xml" value="0.25416666666666665" />
+        <entry key="..\:/InternShip/kutumb/app/src/main/res/layout/view_message_list.xml" value="0.25416666666666665" />
+        <entry key="..\:/InternShip/kutumb/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.215" />
+        <entry key="..\:/InternShip/kutumb/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" value="0.215" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
