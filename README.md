@@ -9,4 +9,4 @@ It is mobile application that would receive sms  and show the otp highlighted in
 
 # Screenshots
 
-
+![SplashScreen](https://user-images.githubusercontent.com/84356050/180723844-f9f52e1f-39e4-48fe-b135-cc565b79cc57.jpeg)
