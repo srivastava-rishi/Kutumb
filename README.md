@@ -1,5 +1,5 @@
 # Kutumb
-It is mobile application that would receive sms  and show the otp highlighted in the SMS.
+It is mobile application that would receive sms and make the otp's highlighted in the SMS.
 
 # Current Features
 * It reads the past SMS on the phone after getting necessary permissions from the user.
